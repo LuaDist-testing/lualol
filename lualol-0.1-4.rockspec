@@ -1,11 +1,11 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lualol"
-version = "0.1-3"
+version = "0.1-4"
 
 -- LuaDist source
 source = {
-  tag = "0.1-3",
+  tag = "0.1-4",
   url = "git://github.com/LuaDist-testing/lualol.git"
 }
 -- Original source
