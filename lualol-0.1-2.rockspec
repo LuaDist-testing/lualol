@@ -1,11 +1,11 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lualol"
-version = "0.1-1"
+version = "0.1-2"
 
 -- LuaDist source
 source = {
-  tag = "0.1-1",
+  tag = "0.1-2",
   url = "git://github.com/LuaDist-testing/lualol.git"
 }
 -- Original source
@@ -42,6 +42,7 @@ build = {
     ["lol.game"] = "src/lol/game.lua",
     ["lol.matchlist"] = "src/lol/matchlist.lua",
     ["lol.summoner"] = "src/lol/summoner.lua",
+    ["lol.utils"] = "src/lol/utils.lua",
   },
   copy_directories = {"doc","spec"}
 }
